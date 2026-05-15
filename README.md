@@ -2,7 +2,7 @@
 
 ---
 
-## Full Stack Developer | AI/ML Enthusiast
+##  AI Engineer | Backend & Full Stack Developer
 
 AI/ML undergraduate at VIT Bhopal, passionate about building scalable applications and intelligent systems. I enjoy solving real-world problems using backend development, machine learning, and deep learning.
 
@@ -32,3 +32,7 @@ AI/ML undergraduate at VIT Bhopal, passionate about building scalable applicatio
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
