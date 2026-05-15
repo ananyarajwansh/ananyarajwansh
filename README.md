@@ -13,7 +13,7 @@ AI/ML undergraduate at VIT Bhopal, passionate about building scalable applicatio
 - **Full Stack Development:** React, Node.js, Express.js, REST APIs  
 - **AI/ML & Deep Learning:** Python, TensorFlow, PyTorch  
 - **Backend Systems:** Authentication, APIs, database design  
-- **Problem Solving:** Strong DSA and algorithmic thinking  
+- **Problem Solving:** Fair DSA and algorithmic thinking  
 
 ---
 
